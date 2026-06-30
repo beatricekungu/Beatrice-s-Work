@@ -7,7 +7,7 @@ To design and document a secure access control model enforcing the **Principle o
 This project maps 5 distinct business roles (DevOps, Sales, HR, Finance, IT) across 5 critical enterprise systems (AWS, GitHub, Salesforce, Workday, O365). Access tiers were strictly assigned based on job function requirements to minimize insider threat risk and prevent unauthorized lateral movement.
 
 ## View the Artifact
-[![View RBAC Matrix] (https://github.com/beatricekungu/Beatrice-s-Work/blob/main/RBAC.jpg)
+[![View RBAC Matrix](https://img.shields.io/badge/Access_Matrix-View_Project-2ea44f?style=for-the-badge&logo=microsoft-excel)](https://github.com/beatricekungu/Beatrice-s-Work/blob/main/RBAC.jpg)
 
 *(Note: Click the button above to view the high-resolution compliance matrix)*
 
